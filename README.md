@@ -50,12 +50,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
 2. Leave a star ⭐
 3. Submit bugs or issues and Pull Request with comprehensive description of changes
 
-**Contributor's Discord Tags**
+**Connect With Me**
 ---
 
-- **Perchito#3979** 
-- **OldMember.#0818**
-- **Kinko#5562**
-- **devesh#3590**
-
-   + **Github:** https://github.com/devesh-anand
+<a href="https://discordapp.com/users/448500121605505035/">Discord</a> | <a href="https://twitter.com/Francis_IGP">Twitter</a> ~  Discord Servers: <a href="https://discord.gg/G563YXspQf">3d Lock</a> | <a href="https://discord.gg/sc8n9p8w6E">Coder's Hangout</a> | <a href="https://discord.com/invite/VMSh7qY">Networking</a> 
