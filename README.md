@@ -27,22 +27,33 @@ Designed for any Operating System (**OS**) with Java installed in it.
    
 2. Install via `Git clone` (**Linux**)
 
-   + `sudo apt-get update sudo apt-get install git -y.`
+   + `sudo apt-get update && sudo apt-get install git -y.`
    + `git clone https://github.com/FrancisIGP/Password-Generator.git`
 
-**Installation Options**
+**Installation Process**
 ---
 
-1. Requirements
+1. **Requirements** (Installing Java)
    
    - Install Java on **Linux**.
    
      + Update your package: `sudo apt update`
      + Install JRE: `sudo apt install default-jre`
      + Install JDK: `sudo apt install default-jdk`
-   - Install Java on **Windows**.
+     
+   - Install Java on **Windows/Mac**.
    
-     + https://www.java.com/en/download/help/windows_manual_download.html`
+     + Install on Windows: `https://www.java.com/en/download/help/windows_manual_download.html`
+     + Install on Mac OS: https://www.java.com/en/download/help/mac_install.html
+
+1. **Execute program** (Compile and run)
+
+   - IDE are pretty much automated as long as you have the requirements for JAVA.
+   - Running the program via terminal
+     
+     + Before anything else, make sure both files are in the same directory.
+     + Compile both files: javac Generator.java WordList.java
+     + Running the drivercode: java Generator
 
 
 **Features**
