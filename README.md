@@ -30,6 +30,21 @@ Designed for any Operating System (**OS**) with Java installed in it.
    + `sudo apt-get update sudo apt-get install git -y.`
    + `git clone https://github.com/FrancisIGP/Password-Generator.git`
 
+**Installation Options**
+---
+
+1. Requirements
+   
+   - Install Java on **Linux**.
+   
+     + Update your package: `sudo apt update`
+     + Install JRE: `sudo apt install default-jre`
+     + Install JDK: `sudo apt install default-jdk`
+   - Install Java on **Windows**.
+   
+     + https://www.java.com/en/download/help/windows_manual_download.html`
+
+
 **Features**
 ---
 
