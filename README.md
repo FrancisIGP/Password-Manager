@@ -35,7 +35,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
 
 - Username and Password generator
 - Username and Password manager
-  + `Store your personal accounts`
-  + `Store claimed generated Username/Password`
-  + `Password Secured`
-  + `Database storage` 
+  + Store your personal accounts
+  + Store claimed generated Username/Password
+  + Password Secured
+  + Database storage 
