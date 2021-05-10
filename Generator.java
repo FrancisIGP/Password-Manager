@@ -198,7 +198,7 @@ public class Generator {
         int tempA;
 
         System.out.println("\n [1] Login Account");
-        System.out.println(" [2] Sign up for an account");
+        System.out.println(" [2] Create an account");
 
         do {
             System.out.print("\n Choose (Ctrl + C to exit): ");
