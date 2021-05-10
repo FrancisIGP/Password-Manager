@@ -35,13 +35,13 @@ Designed for any Operating System (**OS**) with Java installed in it.
 
 1. Install Requirements (**Installing Java**)
    
-   - Install Java on **Linux**.
+   - Install Java on **Linux**:
    
      + Update your package: `sudo apt update`
      + Install JRE: `sudo apt install default-jre`
      + Install JDK: `sudo apt install default-jdk`
      
-   - Install Java on **Windows/Mac**.
+   - Install Java on **Windows/Mac**:
    
      + Install on Windows: https://www.java.com/en/download/help/windows_manual_download.html
      + Install on Mac OS: https://www.java.com/en/download/help/mac_install.html
@@ -49,7 +49,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
 1. How to execute the program (**Compile and run**)
 
    - IDE like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for JAVA.
-   - Running the program via terminal
+   - Running the program via terminal:
      
      + Before anything else, make sure both files are in the same directory.
      + Compile both files: javac Generator.java WordList.java
