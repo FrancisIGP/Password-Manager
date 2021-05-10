@@ -43,7 +43,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
      
    - Install Java on **Windows/Mac**.
    
-     + Install on Windows: `https://www.java.com/en/download/help/windows_manual_download.html`
+     + Install on Windows: https://www.java.com/en/download/help/windows_manual_download.html
      + Install on Mac OS: https://www.java.com/en/download/help/mac_install.html
 
 1. **How to execute the program** `(Compile and run)`
