@@ -38,17 +38,17 @@ Designed for any Operating System (**OS**) with Java installed in it.
    - Install Java on **Linux**:
    
      + Update your package: `sudo apt update`
-     + Install JRE: `sudo apt install default-jre`
-     + Install JDK: `sudo apt install default-jdk`
+     + Install **JRE**: `sudo apt install default-jre`
+     + Install **JDK**: `sudo apt install default-jdk`
      
    - Install Java on **Windows/Mac**:
    
-     + Install on Windows: https://www.java.com/en/download/help/windows_manual_download.html
-     + Install on Mac OS: https://www.java.com/en/download/help/mac_install.html
+     + Install on **Windows**: https://www.java.com/en/download/help/windows_manual_download.html
+     + Install on **Mac OS**: https://www.java.com/en/download/help/mac_install.html
 
 1. How to execute the program (**Compile and run**)
 
-   - IDE like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for JAVA.
+   - IDE's like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for JAVA.
    - Running the program via terminal:
      
      + Before anything else, make sure both files are in the same directory.
