@@ -8,7 +8,7 @@ Command Line Interface (**CLI**) based **Password Manager**.
 
 Designed for any Operating System (**OS**) with Java installed in it.
 
-**[?] Program info**
+**Program info**
 ---
 
 ```
@@ -20,8 +20,22 @@ Designed for any Operating System (**OS**) with Java installed in it.
 ```
 **Installation Options**
 ---
-1. Install via [`ZIP`] file (**Windows**)
+
+1. Install via `ZIP` file (**Windows**)
+
    + `Download ZIP`
-2. Install via [`Git clone`] (**Linux**)
+   
+2. Install via `Git clone` (**Linux**)
+
    + `sudo apt-get update sudo apt-get install git -y.`
    + `git clone https://github.com/FrancisIGP/Password-Generator.git`
+
+**Features**
+---
+
+- Username and Password generator
+- Username and Password manager
+  + `Store your personal accounts`
+  + `Store claimed generated Username/Password`
+  + `Password Secured`
+  + `Database storage` 
