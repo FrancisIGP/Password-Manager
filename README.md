@@ -50,11 +50,11 @@ Designed for any Operating System (**OS**) with Java installed in it.
 2. Leave a star ⭐
 3. Submit bugs or issues and Pull Request with comprehensive description of changes
 
-**Contributors**
+**Contributor's Discord Tags**
 ---
 
-- **Perchito#3979** (Discord tag)
-- **OldMember.#0818** (Discord tag)
+- **Perchito#3979** 
+- **OldMember.#0818**
 - **Kinko#5562**
 - **devesh#3590**
 
