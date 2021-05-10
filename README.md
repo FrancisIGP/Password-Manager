@@ -33,12 +33,12 @@ Designed for any Operating System (**OS**) with Java installed in it.
 **Features**
 ---
 
-1. Username/Password Manager
+- Username/Password Manager
 
   + Username and Password manager
   + Username/Password generator
   
-2. Security features 
+- Security features 
  
   + Password Secured Manager
   + Encrypted Database storage
