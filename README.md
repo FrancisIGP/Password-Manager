@@ -33,7 +33,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
 **Installation Process**
 ---
 
-1. **Requirements** (Installing Java)
+1. **Install Requirements** `(Installing Java)`
    
    - Install Java on **Linux**.
    
@@ -46,9 +46,9 @@ Designed for any Operating System (**OS**) with Java installed in it.
      + Install on Windows: `https://www.java.com/en/download/help/windows_manual_download.html`
      + Install on Mac OS: https://www.java.com/en/download/help/mac_install.html
 
-1. **Execute program** (Compile and run)
+1. **How to execute the program** `(Compile and run)`
 
-   - IDE are pretty much automated as long as you have the requirements for JAVA.
+   - IDE like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for JAVA.
    - Running the program via terminal
      
      + Before anything else, make sure both files are in the same directory.
