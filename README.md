@@ -43,3 +43,18 @@ Designed for any Operating System (**OS**) with Java installed in it.
   + Password Secured Manager
   + Encrypted Database storage
    
+**How to Contribute**
+---
+
+1. Clone repo: `git clone https://github.com/FrancisIGP/Password-Generator.git`.
+2. Leave a star ⭐
+3. Submit bugs or issues and Pull Request with comprehensive description of changes
+
+**Contributors**
+---
+
+1. Perchito#3979 (Discord tag)
+2. OldMember.#0818 (Discord tag)
+3. Kinko#5562
+4. devesh#3590
+   + Github: https://github.com/devesh-anand
