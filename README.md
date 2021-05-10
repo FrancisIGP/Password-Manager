@@ -33,8 +33,10 @@ Designed for any Operating System (**OS**) with Java installed in it.
 **Features**
 ---
 
-- Username and Password generator
-- Username and Password manager
+1. Features
+
+  +Username and Password generator
+  + Username and Password manager
   + Store your personal accounts
   + Store claimed generated Username/Password
   + Password Secured
