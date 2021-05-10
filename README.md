@@ -1,9 +1,9 @@
-## Image#1
+# Hi, welcome to my Password Manager! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+
 ![fbcfd4796c273bbdd8f5e15606776d19](https://user-images.githubusercontent.com/75497349/117658110-ef3b0780-b1cc-11eb-968b-4241ae606e64.jpg)
 
 Command Line Interface (**CLI**) based **Password Manager**.  
 
-## Image#2
 ![fbcfd4796c273bbdd8f5e15606776d19](https://user-images.githubusercontent.com/75497349/117658040-dc283780-b1cc-11eb-9864-19859fe64d85.jpg)
 
 Designed for any Operating System (**OS**) with Java installed in it.
