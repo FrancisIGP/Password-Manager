@@ -35,9 +35,9 @@ Designed for any Operating System (**OS**) with Java installed in it.
 
 1. Features
 
-  +Username and Password generator
   + Username and Password manager
-  + Store your personal accounts
-  + Store claimed generated Username/Password
+    - Username/Password generatir
+  + Security
   + Password Secured
-  + Database storage 
+  + Database storage
+    - Username/Password vault 
