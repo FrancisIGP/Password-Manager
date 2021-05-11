@@ -2,11 +2,16 @@
 
 ![fbcfd4796c273bbdd8f5e15606776d19](https://user-images.githubusercontent.com/75497349/117658110-ef3b0780-b1cc-11eb-968b-4241ae606e64.jpg)
 
-A fun project, Command Line Interface (**CLI**) based **Password Manager**.  
+Command Line Interface (**CLI**) based **Password Manager**.  
 
 ![fbcfd4796c273bbdd8f5e15606776d19](https://user-images.githubusercontent.com/75497349/117658040-dc283780-b1cc-11eb-9864-19859fe64d85.jpg)
 
 Compatible for any Operating System (**OS**) with Java installed in it.
+
+**Disclaimer**
+---
+
+<p align="justify">This is a project I created to help me improve my Java skills; if you plan to use it for personal purposes, please be advised that, while I've provided the program with some basic security measures such as encryption and password protected storage, I cannot guarantee that you will have all the security needed to keep your accounts safe if your device is compromised or any circumstances alike. Hence, please use it at your own risk.</p>
 
 **Program info**
 ---
