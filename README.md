@@ -77,14 +77,14 @@ I will be adding more features and security to it in the future.
   + Password masking
   + Encrypted Database storage
   
-  More security features soon...
+  **More security features soon...**
    
 **How to Contribute**
 ---
 
-1. Clone repo: `git clone https://github.com/FrancisIGP/Password-Generator.git`
+1. **Clone repo:** `git clone https://github.com/FrancisIGP/Password-Generator.git`
 2. Leave a star ⭐
-3. Submit bugs or issues and Pull Request with comprehensive description of changes
+3. Submit **bugs** or **issues** and **Pull Request** with comprehensive description of changes
 
 **Connect With Me**
 ---
