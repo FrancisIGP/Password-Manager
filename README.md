@@ -68,13 +68,16 @@ I will be adding more features and security to it in the future.
 
 - Username/Password Manager
 
-  + Username and Password manager
+  + Username and Password vault
   + Username/Password generator
   
 - Security features 
  
   + Password Secured Manager
+  + Password masking
   + Encrypted Database storage
+  
+  More security features soon...
    
 **How to Contribute**
 ---
