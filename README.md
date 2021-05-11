@@ -48,8 +48,8 @@ Designed for any Operating System (**OS**) with Java installed in it.
 
 1. Program execution (**Compile and run**)
 
-   - IDE's like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for JAVA.
-   - Running the program via terminal:
+   - IDE's like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for running Java.
+   - Executing the program via terminal:
      
      + Before anything else, make sure both files are in the same directory.
      + Compile both files: javac Generator.java WordList.java
