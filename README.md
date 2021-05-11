@@ -72,7 +72,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
 **How to Contribute**
 ---
 
-1. Clone repo: `git clone https://github.com/FrancisIGP/Password-Generator.git`.
+1. Clone repo: `git clone https://github.com/FrancisIGP/Password-Generator.git`
 2. Leave a star ⭐
 3. Submit bugs or issues and Pull Request with comprehensive description of changes
 
