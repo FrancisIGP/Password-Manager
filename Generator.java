@@ -99,7 +99,7 @@ public class Generator {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        
+
     }
 
     public static void login(String[] args) {
@@ -195,23 +195,34 @@ public class Generator {
         clearScreen();
         banner();
         System.out.println("\n [i] \033[32mWelcome!\033[0m\n ────────────");
-        int tempA;
 
         System.out.println("\n [1] Login Account");
         System.out.println(" [2] Create an account");
 
+        System.out.print("\n Choose (Ctrl + C to exit): ");
+        int tempA;
+
         do {
-            System.out.print("\n Choose (Ctrl + C to exit): ");
+
+            while (!scan.hasNextInt()) {
+                String input = scan.next();
+                System.out.printf("\n (\033[31mError\033[0m): Invalid Input! \"%s\"\n", input);
+                System.out.print("\n Choose (Ctrl + C to exit): ");
+            }
+
             tempA = scan.nextInt();
+            scan.nextLine();
+
+            if (tempA == 1) {
+                login(args);
+            } else if (tempA == 2) {
+                setup(args);
+            } else {
+                System.out.printf("\n (\033[31mError\033[0m): Invalid Input! \"%s\"\n", tempA);
+                System.out.print("\n Choose (Ctrl + C to exit): ");
+            }
+
         } while (!(tempA == 1 || tempA == 2));
-
-        scan.nextLine();
-
-        if (tempA == 2) {
-            setup(args);
-        } else {
-            login(args);
-        }
 
     }
 
@@ -230,44 +241,47 @@ public class Generator {
         System.out.println(" [3] Program info \033[31m[?]\033[0m");
         System.out.println(" [4] Logout");
 
+        System.out.print("\n Choose (Ctrl + C to exit): ");
         int input1;
 
-        System.out.print("\n Choose (Ctrl + C to exit): ");
-        input1 = scan.nextInt();
+        do {
 
-        if (input1 == 1) {
-            generateUsername_Password(args);
-        } else if (input1 == 2) {
-            printDatabase(args);
-        } else if (input1 == 3) {
+            while (!scan.hasNextInt()) {
+                String input = scan.next();
+                System.out.printf("\n (\033[31mError\033[0m): Invalid Input! \"%s\"\n", input);
+                System.out.print("\n Choose (Ctrl + C to exit): ");
+            }
 
-            System.out.println("\n [?] \033[32mProgram info\033[0m");
-            System.out.println("\n Program: Password Manager");
-            System.out.println(" Version: BETA");
-            System.out.println(" Github: https://github.com/FrancisIGP");
-            System.out.println(" Developer: FrancisIGP");
+            input1 = scan.nextInt();
 
-            scan.nextLine();
-            System.out.print("\n Press \033[32m[ENTER]\033[0m to continue (Ctrl + C to exit)...");
-            scan.nextLine();
+            if (input1 == 1) {
+                generateUsername_Password(args);
+            } else if (input1 == 2) {
+                printDatabase(args);
+            } else if (input1 == 3) {
 
-            clearScreen();
-            startupMenu(args);
+                System.out.println("\n [?] \033[32mProgram info\033[0m");
+                System.out.println("\n Program: Password Manager");
+                System.out.println(" Version: BETA");
+                System.out.println(" Github: https://github.com/FrancisIGP");
+                System.out.println(" Developer: FrancisIGP");
 
-        } else if (input1 == 4) {
-            scan.nextLine();
-            main(args);
-        } else {
-
-            do {
+                scan.nextLine();
+                System.out.print("\n Press \033[32m[ENTER]\033[0m to continue (Ctrl + C to exit)...");
+                scan.nextLine();
 
                 clearScreen();
-                System.out.println("\n (\033[31mError\033[0m): Invalid input. Please retry!");
                 startupMenu(args);
 
-            } while (!true);
+            } else if (input1 == 4) {
+                scan.nextLine();
+                main(args);
+            } else {
+                System.out.printf("\n (\033[31mError\033[0m): Invalid Input! \"%s\"\n", input1);
+                System.out.print("\n Choose (Ctrl + C to exit): ");
+            }
 
-        }
+        } while (!(input1 == 1 || input1 == 2 || input1 == 3 || input1 == 4));
 
         scan.close();
 
