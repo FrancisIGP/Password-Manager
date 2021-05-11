@@ -46,7 +46,7 @@ Designed for any Operating System (**OS**) with Java installed in it.
      + Install on **Windows**: https://www.java.com/en/download/help/windows_manual_download.html
      + Install on **Mac OS**: https://www.java.com/en/download/help/mac_install.html
 
-1. How to execute the program (**Compile and run**)
+1. Program execution (**Compile and run**)
 
    - IDE's like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for JAVA.
    - Running the program via terminal:
