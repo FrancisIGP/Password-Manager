@@ -11,7 +11,7 @@ Compatible for any Operating System (**OS**) supporting Java.
 **Disclaimer**
 ---
 
-<p align="justify">This is a project I created to help me improve my Java skills; if you plan to use it for personal purposes, please be advised that, while I've provided the program with some basic security measures such as encryption and password protected storage, I cannot guarantee that you will have all the security needed to keep your accounts safe if your device is compromised or any circumstances alike. Hence, please use it at your own risk.</p>
+<p align="justify">This is a project I created to help me improve my Java skills; if you plan to use it for personal purposes, please be advised that, while I've provided the program with some basic security measures such as encryption and password-protected storage, I cannot guarantee that you will have all the security needed to keep your accounts safe if your device is compromised or any circumstances alike. Hence, please use it at your own risk.</p>
 
 I will be adding more features and security to it in the future.
 
@@ -55,7 +55,7 @@ I will be adding more features and security to it in the future.
 
 1. Program execution (**Compile and run**)
 
-   - IDE's like `Visual Studio Code (VScode)` are pretty much automated as long as you have the requirements for running Java.
+   - IDE's like `Visual Studio Code (vscode)` is pretty much automated as long as you have the requirements for running Java.
    - Executing the program via terminal (**Manual**):
      
      + **Before anything else**, make sure both files are in the same **directory**.
@@ -84,7 +84,7 @@ I will be adding more features and security to it in the future.
 
 1. **Clone repo:** `git clone https://github.com/FrancisIGP/Password-Generator.git`
 2. Leave a star ⭐
-3. Submit **bugs** or **issues** and **Pull Request** with comprehensive description of changes
+3. Submit **bugs** or **issues** and **Pull Request** with a comprehensive description of changes
 
 **Connect With Me**
 ---
