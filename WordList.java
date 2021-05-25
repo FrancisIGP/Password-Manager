@@ -1,5 +1,3 @@
-package me.aaronakhtar.FrancisIGP.password_generator;
-
 public class WordList {
 
         public String[] names = {
