@@ -23,9 +23,6 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class Generator {
 
-    // DEVELOPER NOTICE (Aaron Akhtar),
-    //  I could not be assed to fix every damn thing here. So enjoy what I've done <3 lol
-
     public static final ArrayList<String> tempUserLog = new ArrayList<String>();
     public static final ArrayList<String> tempPassLog = new ArrayList<String>();
 
@@ -52,7 +49,6 @@ public class Generator {
             try(FileWriter fw = new FileWriter(database, true)) {
                 for (int i = 0; i < tempUserLog.size(); i++) {
 
-                    // not going to even bother with this....
                     String tempVar = encrypt(tempUserLog.get(i), keyB) + "\n" + encrypt(tempPassLog.get(i), keyB)
                             + "\n";
                     fw.write(tempVar);
@@ -65,9 +61,6 @@ public class Generator {
         }
 
     }
-
-
-    // and I stop here lmao
 
     public static void setup(String[] args) {
 
