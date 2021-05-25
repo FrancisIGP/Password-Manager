@@ -4,15 +4,6 @@ public class WordList {
 
         public String[] names = {
 
-
-
-                                        // TODO:
-                                        // IMPORT FROM FUCKING FILE JESUS DAMN.
-
-
-
-
-
                         "Liam", "Noah", "William", "James", "Logan", "Benjamin", "Mason", "Elijah", "Oliver", "Jacob",
                         "Lucas", "Michael", "Alexander", "Ethan", "Daniel", "Matthew", "Aiden", "Henry", "Joseph",
                         "Jackson", "Samuel", "Sebastian", "David", "Carter", "Wyatt", "Jayden", "John", "Owen", "Dylan",
