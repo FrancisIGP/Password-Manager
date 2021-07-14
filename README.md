@@ -11,9 +11,9 @@ Compatible for any Operating System (**OS**) supporting Java.
 **Disclaimer**
 ---
 
-<p align="justify">This is a project I created to help me improve my Java skills; if you plan to use it for personal purposes, please be advised that, while I've provided the program with some basic security measures such as encryption and password-protected storage, I cannot guarantee that you will have all the security needed to keep your accounts safe if your device is compromised or any circumstances alike. Hence, please use it at your own risk.</p>
+<p align="justify">This is a personal project that I developed to help me improve my Java skills; if you intend to use it for personal purposes, please be aware that, while I've included some basic security measures such as encryption and password-protected storage, I cannot guarantee that you'll have enough security to keep your accounts safe if your device is compromised or if any other circumstance occurs. As such, use it at your own risk.</p>
 
-I will be adding more features and security to it in the future.
+I will be appending more features and security to it in the future.
 
 **Program info**
 ---
